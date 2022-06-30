@@ -8,5 +8,5 @@ for(var i=0;i<8;i++){
     var q=Math.floor(Math.random()*A.length);
     passcode+=A[q];
 }
-    document.write("<center>"+"New Passcode: " + "<b>"+passcode+"</b></center>");
+    document.write("<center>"+"New Passcode: " + "<b><h1>"+passcode+"</b></center></h1>");
 
